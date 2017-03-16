@@ -1,10 +1,12 @@
 # YouTube Search  App with React
 
-###Install###
+
+Install App
+
 
 ```
 	> git clone https://github.com/val-alexeev/youtube-search-react-app.git
-	> cd ReduxSimpleStarter
+	> cd youtube-search-react-app
 	> npm install
 	> npm start
 ```
